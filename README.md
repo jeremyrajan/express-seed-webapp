@@ -1,5 +1,6 @@
 # express-seed-webapp
-*This is still work-in-progress, use at your own risk*
+**This is still work-in-progress, use at your own risk**
+
 A seed application structure for Express Apps (inc ORM, Bootstrap, Authentication).
 
 ## Usage
